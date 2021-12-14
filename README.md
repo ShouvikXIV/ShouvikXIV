@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShouvikXIV
+- 👋 Hi, I’m @Shouvik_Barua
 - 👀 I’m interested in Competitive progremming 
 - 🌱 I’m currently university student
 - 📫 How to reach me shouvik.sbarua@gmail.com
