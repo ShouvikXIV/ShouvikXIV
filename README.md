@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shouvik_Barua
-- 👀 I’m interested in Competitive progremming 
-- 🌱 I’m currently university student
+- 👋 Hi, It's @Shouvik_Barua
+- 👀 Just an ordinary student who loves solving problems 
+- 🌱 undergrad student
 - 📫 How to reach me shouvik.sbarua@gmail.com
 
 <!---
