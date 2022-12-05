@@ -56,6 +56,12 @@
 <br/>  
 <br/>  
 
+<div align="center"><img src = "https://leetcard.jacoblin.cool/shouvik_barua?ext=activity"/></div>
+
+<!-- <div align="center"><img src = "https://raw.githubusercontent.com/shouvikxiv/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/></div>
+ -->
+<!-- ![](https://raw.githubusercontent.com/shouvikxiv/cf-stats/main/output/light_card.svg)
+ -->
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=wu8oncslt9mz4ulsfsfles7x8&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
