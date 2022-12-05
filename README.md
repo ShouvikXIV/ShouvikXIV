@@ -36,10 +36,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shouvikxiv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-<br/>  
+<!--<br/>  -->
 
 <div align="center"><img src = "https://leetcard.jacoblin.cool/shouvik_barua?ext=activity"/></div>
-
+<br/>  
 <!-- <div align="center"><img src = "https://raw.githubusercontent.com/shouvikxiv/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/></div>
  -->
 <!-- ![](https://raw.githubusercontent.com/shouvikxiv/cf-stats/main/output/light_card.svg)
