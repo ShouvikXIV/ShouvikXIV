@@ -35,12 +35,15 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/shouvikxiv" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/shouvik-barua-397a04235" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<!-- <p align="left"> -->
+<a href="https://linkedin.com/in/shouvik barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shouvik barua" height="45"   /></a>
+<a href="https://www.hackerrank.com/shouvikxiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shouvikxiv" height="45" /></a>
+<a href="https://codeforces.com/profile/shouvikxiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shouvikxiv" height="45" /></a>
+<a href="https://www.leetcode.com/shouvikxiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shouvikxiv" height="45" /></a>
+<a href="https://www.hackerearth.com/shouvikxiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shouvikxiv" height="45" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shouvikxiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shouvikxiv" height="45" /></a>
+<a href="https://discord.gg/#4208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4208" height="45" /></a>
+<!-- </p>  -->
 </div>  
   
 
